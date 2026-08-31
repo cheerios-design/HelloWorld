@@ -7,5 +7,5 @@ const style = {
     magenta: "\x1b[35m",
 };
 // Print the customized Hello World message
-console.log(`\n${style.bold}${style.cyan}🚀 Hello World!${style.reset}`);
+console.log(`\n${style.bold}${style.cyan}Hello World!${style.reset}`);
 console.log(`${style.magenta}Welcome to your new TypeScript local development environment.${style.reset}\n`);
