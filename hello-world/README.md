@@ -12,7 +12,7 @@ This is a lightweight TypeScript command-line script that outputs a greeting to 
 
 # Development Environment
 
-* Visual Studio Code
+* Antigravity
 * Git
 * Node.js
 
