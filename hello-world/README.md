@@ -8,7 +8,7 @@ This is a lightweight TypeScript command-line script that outputs a greeting to 
 
 # Video Link
 
-[Software Demo Video](Insert_Google_Drive_Link_Here)
+[Software Demo Video](https://www.loom.com/share/55cfec1388fa47e5bc1af25d45026bd2)
 
 # Development Environment
 
